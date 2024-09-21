@@ -28,11 +28,11 @@ Some online gaming services, like [Checkers ONLINE](https://checkers.online/) or
 
 ## Technology Stack and Communication Patterns
 
-- *API*: NodeJS
-- *Service Discovery*: JS
-- *Cache*: Redis
-- *Services*: Python
-- *Databases*: PostgreSQL
+- **API**: NodeJS
+- **Service Discovery**: JS
+- **Cache**: Redis
+- **Services**: Python
+- **Databases**: PostgreSQL
 
 ## Deployment and Scaling
 
