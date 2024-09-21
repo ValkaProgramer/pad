@@ -26,6 +26,14 @@ Some online gaming services, like [Checkers ONLINE](https://checkers.online/) or
 
 <img src="assets/diagram.png">
 
+## Technology Stack and Communication Patterns
+
+- *API*: NodeJS
+- *Service Discovery*: JS
+- *Cache*: Redis
+- *Services*: Python
+- *Databases*: PostgreSQL
+
 ## Deployment and Scaling
 
 Every component will be encapsulated in its own Docker image, which will then be used to spin up containers that can be deployed and scaled independently. Docker Compose will oversee these containers, managing their communication and ensuring they work together smoothly. Docker handles the networking, making it easy to scale and deploy containers as needed.
