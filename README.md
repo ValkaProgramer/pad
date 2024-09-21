@@ -24,7 +24,7 @@ Some online gaming services, like [Checkers ONLINE](https://checkers.online/) or
 
 ## Service Boundaries
 
-<img src="diagram.png">
+<img src="assets/diagram.png">
 
 ## Deployment and Scaling
 
